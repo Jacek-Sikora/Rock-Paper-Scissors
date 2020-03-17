@@ -1,0 +1,28 @@
+.headeron {
+    color: red;
+}
+
+.gameButton {
+    font-size: 30px;
+    background-color: rgba(0, 255, 0, 0.6);
+    width: 150px;
+    border-radius: 15px;
+}
+
+#result {
+    float: left;
+    margin-left: 600px;
+    font-size: 40px;
+}
+
+#pcGuess {
+    font-size: 30px;
+    background-color: rgba(255, 0, 0, 0.6);
+    margin-top: 20px;
+    width: 460px;
+    border-radius: 15px;
+}
+
+#todo {
+    margin-top: 200px;
+}
